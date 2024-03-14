@@ -1,0 +1,19 @@
+#pongCanvas {
+	background: black;
+	display: block;
+	margin: auto;
+	outline: white 2px solid;
+}
+/* 
+#gameDashboard,
+#modeSelection,
+#registration,
+#tournamentInfo {
+	color: rgb(138, 138, 138);
+	text-align: center;
+	margin-top: 20px;
+}
+
+.hidden {
+	display: none;
+} */
